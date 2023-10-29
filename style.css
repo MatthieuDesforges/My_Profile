@@ -1,0 +1,21 @@
+img { 
+    border-radius: 30px;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+    color: #0d2c56;
+    text-decoration: underline;
+}
+
+h2 {
+    color: #3f2107;
+}
+
+body {
+    background-color: blanchedalmond;
+}
